@@ -1,4 +1,4 @@
-# Biophysical Journal (BJ)
+# Journal of Open Research Software
 
 This Quarto format will help you create documents for the Journal of Open Research Software. For more about Quarto and how to use format extensions, see <https://quarto.org/docs/journals/>.
 
