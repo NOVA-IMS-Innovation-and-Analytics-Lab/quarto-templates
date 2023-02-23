@@ -1,6 +1,7 @@
 # Journal of Open Research Software
 
-This Quarto format will help you create documents for the Journal of Open Research Software. For more about Quarto and how to use format extensions, see <https://quarto.org/docs/journals/>.
+This Quarto format will help you create documents for the Journal of Open Research Software. For more about Quarto and how to use
+format extensions, see <https://quarto.org/docs/journals/>.
 
 ## Creating a New Article
 
@@ -8,11 +9,13 @@ You can use this as a template to create an article for the Biophysical Journal.
 
 ```quarto use template NOVA-IMS-Innovation-and-Analytics-Lab/jors```
 
-This will install the extension and create an example qmd file and bibiography that you can use as a starting place for your article.
+This will install the extension and create an example qmd file and bibiography that you can use as a starting place for your
+article.
 
 ## Installation For Existing Document
 
-You may also use this format with an existing Quarto project or document. From the quarto project or document directory, run the following command to install this format:
+You may also use this format with an existing Quarto project or document. From the quarto project or document directory, run the
+following command to install this format:
 
 ```quarto install NOVA-IMS-Innovation-and-Analytics-Lab/jors```
 

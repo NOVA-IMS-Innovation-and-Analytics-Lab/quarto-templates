@@ -6,7 +6,8 @@ format:
 
 **Software paper for submission to the Journal of Open Research Software**
 
-To complete this template, please replace the blue text with your own. The paper has three main sections: (1) Overview; (2) Availability; (3) Reuse potential.
+To complete this template, please replace the blue text with your own. The paper has three main sections: (1) Overview; (2)
+Availability; (3) Reuse potential.
 
 Please submit the completed paper to: editor.jors@ubiquitypress.com
 
@@ -18,38 +19,45 @@ Please submit the completed paper to: editor.jors@ubiquitypress.com
 
 # Title
 
-\textcolor{blue}{The title of the software paper should focus on the software, e.g. “Text mining software from the X project”. If the software is closely linked to a specific research paper, then “Software from Paper Title” is appropriate. The title should be factual, relating to the functionality of the software and the area it relates to rather than making claims about the software, e.g. “Easy-to-use”.}
+\textcolor{blue}{The title of the software paper should focus on the software, e.g. “Text mining software from the X project”. If
+the software is closely linked to a specific research paper, then “Software from Paper Title” is appropriate. The title should be
+factual, relating to the functionality of the software and the area it relates to rather than making claims about the software,
+e.g. “Easy-to-use”.}
 
 # Paper authors
 
-\textcolor{blue}{1. Last name, first name; (Lead/corresponding author first) \\
-2. Last name, first name; etc.}
+\textcolor{blue}{1. Last name, first name; (Lead/corresponding author first) \\ 2. Last name, first name; etc.}
 
 # Paper author roles and affiliations
 
-\textcolor{blue}{1. First author role and affiliation \\
-2. Second author role and affiliation etc.}
+\textcolor{blue}{1. First author role and affiliation \\ 2. Second author role and affiliation etc.}
 
 # Abstract
 
-\textcolor{blue}{A short (ca. 100 word) summary of the software being described: what problem the software addresses, how it was implemented and architected, where it is stored, and its reuse potential.}
+\textcolor{blue}{A short (ca. 100 word) summary of the software being described: what problem the software addresses, how it was
+implemented and architected, where it is stored, and its reuse potential.}
 
 # Keywords
 
-\textcolor{blue}{keyword 1; keyword 2; etc. \\
-Keywords should make it easy to identify who and what the software will be useful for.}
+\textcolor{blue}{keyword 1; keyword 2; etc. \\ Keywords should make it easy to identify who and what the software will be useful
+for.}
 
 # Introduction
 
-\textcolor{blue}{An overview of the software, how it was produced, and the research for which it has been used, including references to relevant research articles. A short comparison with software which implements similar functionality should be included in this section.}
+\textcolor{blue}{An overview of the software, how it was produced, and the research for which it has been used, including
+references to relevant research articles. A short comparison with software which implements similar functionality should be
+included in this section.}
 
 # Implementation and architecture
 
-\textcolor{blue}{How the software was implemented, with details of the architecture where relevant. Use of relevant diagrams is appropriate. Please also describe any variants and associated implementation differences.}
+\textcolor{blue}{How the software was implemented, with details of the architecture where relevant. Use of relevant diagrams is
+appropriate. Please also describe any variants and associated implementation differences.}
 
 # Quality control
 
-\textcolor{blue}{Detail the level of testing that has been carried out on the code (e.g. unit, functional, load etc.), and in which environments. If not already included in the software documentation, provide details of how a user could quickly understand if the software is working (e.g. providing examples of running the software with sample input and output data). }
+\textcolor{blue}{Detail the level of testing that has been carried out on the code (e.g. unit, functional, load etc.), and in
+which environments. If not already included in the software documentation, provide details of how a user could quickly understand
+if the software is working (e.g. providing examples of running the software with sample input and output data). }
 
 # (2) Availability
 
@@ -73,11 +81,13 @@ Keywords should make it easy to identify who and what the software will be usefu
 
 # List of contributors
 
-\textcolor{blue}{Please list anyone who helped to create the software (who may also not be an author of this paper), including their roles and affiliations.}
+\textcolor{blue}{Please list anyone who helped to create the software (who may also not be an author of this paper), including
+their roles and affiliations.}
 
 # Software location
   
-**Archive** \textcolor{blue}{(e.g. institutional repository, general repository) (required – please see instructions on journal website for depositing archive copy of software in a suitable repository)}
+**Archive** \textcolor{blue}{(e.g. institutional repository, general repository) (required – please see instructions on journal
+website for depositing archive copy of software in a suitable repository)}
 
 - **Name:** \textcolor{blue}{The name of the archive.}
 - **Persistent identifier:** \textcolor{blue}{e.g. DOI, handle, PURL, etc.}
@@ -106,11 +116,15 @@ Keywords should make it easy to identify who and what the software will be usefu
 
 # (3) Reuse potential
 
-\textcolor{blue}{Please describe in as much detail as possible the ways in which the software could be reused by other researchers both within and outside of your field. This should include the use cases for the software, and also details of how the software might be modified or extended (including how contributors should contact you) if appropriate. Also you must include details of what support mechanisms are in place for this software (even if there is no support).}
+\textcolor{blue}{Please describe in as much detail as possible the ways in which the software could be reused by other researchers
+both within and outside of your field. This should include the use cases for the software, and also details of how the software
+might be modified or extended (including how contributors should contact you) if appropriate. Also you must include details of
+what support mechanisms are in place for this software (even if there is no support).}
 
 # Acknowledgements
 
-\textcolor{blue}{Please add any relevant acknowledgments to anyone else who supported the project in which the software was created, but did not work directly on the software itself.}
+\textcolor{blue}{Please add any relevant acknowledgments to anyone else who supported the project in which the software was
+created, but did not work directly on the software itself.}
 
 # Funding statement
 
@@ -118,15 +132,18 @@ Keywords should make it easy to identify who and what the software will be usefu
 
 # Competing interests
 
-\textcolor{blue}{If any of the authors have any competing interests then these must be declared. The authors’ initials should be used to denote differing competing interests. For example: “BH has minority shares in [company name], which part funded the research grant for this project. All other authors have no competing interests." \\
-If there are no competing interests, please add the statement:
-“The authors declare that they have no competing interests.”}
+\textcolor{blue}{If any of the authors have any competing interests then these must be declared. The authors’ initials should be
+used to denote differing competing interests. For example: “BH has minority shares in [company name], which part funded the
+research grant for this project. All other authors have no competing interests." \\ If there are no competing interests, please
+add the statement: “The authors declare that they have no competing interests.”}
 
 # References
 
-\textcolor{blue}{Please enter references in the Harvard style and include a DOI where available, citing them in the text with a number in square brackets, e.g. \\ }
+\textcolor{blue}{Please enter references in the Harvard style and include a DOI where available, citing them in the text with a
+number in square brackets, e.g. \\ }
 
-\textcolor{blue}{[1] Piwowar, H A 2011 Who Shares? Who Doesn't? Factors Associated with Openly Archiving Raw Research Data. PLoS ONE 6(7): e18657. DOI: \\ http://dx.doi.org/10.1371/journal.pone.0018657.}
+\textcolor{blue}{[1] Piwowar, H A 2011 Who Shares? Who Doesn't? Factors Associated with Openly Archiving Raw Research Data. PLoS
+ONE 6(7): e18657. DOI: \\ http://dx.doi.org/10.1371/journal.pone.0018657.}
 
 \vspace{2cm}
 
