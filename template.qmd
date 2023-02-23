@@ -132,17 +132,3 @@ If there are no competing interests, please add the statement:
 
 \rule{\textwidth}{1pt}
 
-**Copyright Notice**
-
-Authors who publish with this journal agree to the following terms:
-
-Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under [Creative
-Commons Attribution License](http://creativecommons.org/licenses/by/3.0) that allows others to share the work with an
-acknowledgement of the work's authorship and initial publication in this journal.
-
-Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's
-published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of
-its initial publication in this journal.
-
-By submitting this paper you agree to the terms of this Copyright Notice, which will apply to this submission if and when it is
-published by this journal.
