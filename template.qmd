@@ -108,10 +108,10 @@ website for depositing archive copy of software in a suitable repository)]{.blue
 
 # (3) Reuse potential
 
-[Please describe in as much detail as possible the ways in which the software could be reused by other researchers
-both within and outside of your field. This should include the use cases for the software, and also details of how the software
-might be modified or extended (including how contributors should contact you) if appropriate. Also you must include details of
-what support mechanisms are in place for this software (even if there is no support).]{.blue}
+[Please describe in as much detail as possible the ways in which the software could be reused by other researchers both within and
+outside of your field. This should include the use cases for the software, and also details of how the software might be modified
+or extended (including how contributors should contact you) if appropriate. Also you must include details of what support
+mechanisms are in place for this software (even if there is no support).]{.blue}
 
 # Acknowledgements
 
@@ -124,15 +124,15 @@ created, but did not work directly on the software itself.]{.blue}
 
 # Competing interests
 
-[If any of the authors have any competing interests then these must be declared. The authors’ initials should be
-used to denote differing competing interests. For example: “BH has minority shares in [company name], which part funded the
-research grant for this project. All other authors have no competing interests."]{.blue}\
-[If there are no competing interests, please add the statement: “The authors declare that they have no competing interests.”]{.blue}
+[If any of the authors have any competing interests then these must be declared. The authors’ initials should be used to denote
+differing competing interests. For example: “BH has minority shares in [company name], which part funded the research grant for
+this project. All other authors have no competing interests."]{.blue}\ [If there are no competing interests, please add the
+statement: “The authors declare that they have no competing interests.”]{.blue}
 
 # References
 
-[Please enter references in the Harvard style and include a DOI where available, citing them in the text with a
-number in square brackets, e.g.]{.blue}
+[Please enter references in the Harvard style and include a DOI where available, citing them in the text with a number in square
+brackets, e.g.]{.blue}
 
-[[1] Piwowar, H A 2011 Who Shares? Who Doesn't? Factors Associated with Openly Archiving Raw Research Data. PLoS
-ONE 6(7): e18657. DOI: \\ http://dx.doi.org/10.1371/journal.pone.0018657.]{.blue}
+[[1] Piwowar, H A 2011 Who Shares? Who Doesn't? Factors Associated with Openly Archiving Raw Research Data. PLoS ONE 6(7): e18657.
+DOI: \\ http://dx.doi.org/10.1371/journal.pone.0018657.]{.blue}
